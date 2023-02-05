@@ -2,7 +2,7 @@
 
 ## About Me
 
-After graduating from the University of Windsor's Computer Science program in the Sprint of 2006,
+After graduating from the University of Windsor's Computer Science program in the Spring of 2006,
 I worked for various companies before landing at Miovision in November 2021. I've worked primarly
 on web services with a focus on efficency, scalability, automated testing, and maintainability.
 
