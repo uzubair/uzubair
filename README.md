@@ -1,16 +1,30 @@
-### Hi there 👋
+# Usman Zubair
 
-<!--
-**uzubair/uzubair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+After graduating from the University of Windsor's Computer Science program in the Sprint of 2006,
+I worked for various companies before landing at Miovision in November 2021. I've worked primarly
+on web services with a focus on efficency, scalability, automated testing, and maintainability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests include cloud computing, server-side development, software design patterns, and complex
+algorithms.
+
+In my spare time, I'm a son, a brother, a husband, and a lover of music and movies. I play with Lego,
+video games on PS4 and spend far too much time on `reddit.com/r/programming`.
+
+## Computer Skills
+
+More than 17 years of experience in developing, testing, debugging, profiling, and optimizing software
+with real-time performance requirements. Highlights o skills include:
+
+### Programming Languages
+- Java
+- Python
+- C
+- GO
+- Shell scripting
+
+### Languages
+- Urdu
+- Punjabi
+- English
